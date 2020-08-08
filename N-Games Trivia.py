@@ -37,4 +37,4 @@ print('Thank you for playing')
 mark =(score/total_q * 100)
 
 print("Mark: ", str(mark) + '%')
-print('check code here:')
+print('https://github.com/N-Games/Trivia-Test/edit/master/N-Games%20Trivia.py')
